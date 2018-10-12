@@ -23,7 +23,7 @@ Bright colors, rounded corners, concise and approachable prose. It was never jus
 
 I designed the visual assets in Figma with procedurality in mind, making extensive use of Figma's modern toolset of linked components, local styles, and non-destructive boolean operations. I ended up with a design document that not only simplified the creation of, say, twenty different logos, but also allowed the logos to be edited easily afterwards: changes to one label or letterform would automatically update all others.
 
-<video src="source/UARebrand/UARebrandProceduralVid.mp4" autoplay muted loop></video>
+<video src="UARebrandProceduralVid.mp4" autoplay muted loop></video>
 *A procedural design document in action.*
 
 ![](UARebrandStyleguide.jpg)
